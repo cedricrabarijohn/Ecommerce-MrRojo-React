@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@300&display=swap');
 .App {
-  text-align: center;
+  /* text-align: center; */
+  font-family: 'Anek Malayalam', sans-serif;
+  font-size: 15px;
+  padding:50px;
 }
 
 .App-logo {
